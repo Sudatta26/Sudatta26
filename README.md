@@ -34,4 +34,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sudatta26&show_icons=true&locale=en&layout=compact" alt="sudatta26" /></p>
 </div>
 
-<h3>Thanks to @hyprex-deva for helping me with my Profile</h3>
+>Thanks to <a href="https://github.com/hyprex-deva">Hyprex</a> for helping me with my Profile.
+
