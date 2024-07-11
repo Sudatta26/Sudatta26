@@ -5,9 +5,9 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sudatta26" alt="sudatta26" /></a> </p>
 
-- 🔭 I’m currently working on **ML Models**
+- 🔭 I’m currently working on **My Problem Solving Skills**
 
-- 🌱 I’m currently learning **ML and Data Science**
+- 🌱 I’m currently learning **Data Structures and Algorithms**
 
 - 💬 Ask me about **Body count**
 
